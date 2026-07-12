@@ -131,3 +131,5 @@ if __name__ == "__main__":
         notify_discord("\n".join(lines))
     else:
         print("No retailers in stock this check.")
+
+
